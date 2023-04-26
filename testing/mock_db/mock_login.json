@@ -1,0 +1,60 @@
+<<<<<<< HEAD
+{
+  "user_details": [
+    {
+      "username": "qwerty",
+      "password": "518b73ea3b1482b2ff8b1cf6e6e1a90be24f10835362f9f2e3cb4b8e5b9d14067947d52da7a141e64db51d08633c575832f1ea04cae16b70afa8ae25664a2c80",
+      "role": "user"
+    },
+    {
+      "username": "testuser",
+      "password": "c97ecfa4e0ef1e1ceae3da1cdf20f79ada6f04cb295ea1209c69f928991e2229ea28ee44c373538462fb6fe40231e2861f311ff9716718553886efce5ed5db1b",
+      "role": "user"
+    },
+    {
+      "username": "test",
+      "password": "bd87ef6b4d089a1c2913136c9f615c5458cc089f4952f5071d0c65a66811d3b8d40e39cf4e388e58ea23aa777d1a9be4b3010c70ad7b8e7d266a252aff32c0c4",
+      "role": "user"
+    },
+    {
+      "username": "admin",
+      "password": "1f64b6bf0af41b27cbca5d349e06e005b182d930184fc44c68b5a601714ebaf9a881e278ff2035f458d10d7ef3696601037210b90d5aa02f940fe5c747ccd4af",
+      "role": "admin"
+    },
+    {
+      "username": "tj",
+      "password": "40028e5ba48de9fb9f9287bc23ba6935d54af018758123207985e2c33448549bb1451b6f90e52df7d9fe828f420044504249051e583dc59b53fed5df68008583",
+      "role": "admin"
+    }
+  ]
+=======
+{
+  "user_details": [
+    {
+      "username": "qwerty",
+      "password": "518b73ea3b1482b2ff8b1cf6e6e1a90be24f10835362f9f2e3cb4b8e5b9d14067947d52da7a141e64db51d08633c575832f1ea04cae16b70afa8ae25664a2c80",
+      "role": "user"
+    },
+    {
+      "username": "testuser",
+      "password": "c97ecfa4e0ef1e1ceae3da1cdf20f79ada6f04cb295ea1209c69f928991e2229ea28ee44c373538462fb6fe40231e2861f311ff9716718553886efce5ed5db1b",
+      "role": "user"
+    },
+    {
+      "username": "test",
+      "password": "bd87ef6b4d089a1c2913136c9f615c5458cc089f4952f5071d0c65a66811d3b8d40e39cf4e388e58ea23aa777d1a9be4b3010c70ad7b8e7d266a252aff32c0c4",
+      "role": "user"
+    },
+    {
+      "username": "admin",
+      "password": "1f64b6bf0af41b27cbca5d349e06e005b182d930184fc44c68b5a601714ebaf9a881e278ff2035f458d10d7ef3696601037210b90d5aa02f940fe5c747ccd4af",
+      "role": "admin"
+    },
+    {
+      "username": "tj",
+      "password": "40028e5ba48de9fb9f9287bc23ba6935d54af018758123207985e2c33448549bb1451b6f90e52df7d9fe828f420044504249051e583dc59b53fed5df68008583",
+      "role": "admin"
+    }
+  ]
+>>>>>>> origin/main
+}

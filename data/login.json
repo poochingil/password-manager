@@ -1,0 +1,160 @@
+<<<<<<< HEAD
+{
+    "user_details": [
+        {
+            "username": "qwerty",
+            "password": "518b73ea3b1482b2ff8b1cf6e6e1a90be24f10835362f9f2e3cb4b8e5b9d14067947d52da7a141e64db51d08633c575832f1ea04cae16b70afa8ae25664a2c80",
+            "role": "user"
+        },
+        {
+            "username": "testuser",
+            "password": "c97ecfa4e0ef1e1ceae3da1cdf20f79ada6f04cb295ea1209c69f928991e2229ea28ee44c373538462fb6fe40231e2861f311ff9716718553886efce5ed5db1b",
+            "role": "user"
+        },
+        {
+            "username": "admin",
+            "password": "1f64b6bf0af41b27cbca5d349e06e005b182d930184fc44c68b5a601714ebaf9a881e278ff2035f458d10d7ef3696601037210b90d5aa02f940fe5c747ccd4af",
+            "role": "admin"
+        },
+        {
+            "username": "tj",
+            "password": "40028e5ba48de9fb9f9287bc23ba6935d54af018758123207985e2c33448549bb1451b6f90e52df7d9fe828f420044504249051e583dc59b53fed5df68008583",
+            "role": "admin"
+        },
+        {
+            "username": "sid",
+            "password": "8fbd949b6d8c9c7d860866c808a2f454fc14b673676c80936c66ed19b636a62a6ae6cccda2b2778a386488d27c462b33d535c4763337703525f33d70e107469e",
+            "role": "user"
+        },
+        {
+            "username": "zxc",
+            "password": "4c01965416549fd4856eb43b5eef4755aefe6fad7622b1b57da16a68c8469fbf1dc182538eaec95c0cf8e7b42706b28ba8aa208416dee81eefca703d15587f41",
+            "role": "admin"
+        },
+        {
+            "username": "ll",
+            "password": "0ee88578d98cc09607ae44ad96d8f53dba56ea3b7c186abb141d1f7a33f501a083d742489663175ca694e9dd482ad553d4c19fe44da7ff524629343c1c17deec",
+            "role": "admin"
+        },
+        {
+            "username": "qw",
+            "password": "c6642efab97bc8283361ef9065a357617b5ec9d96c4e4aa4a86511a525d79197692a54ca260efde7fb173ef2f274177f10dd1f44de68f3321912c9e145057a1e",
+            "role": "admin"
+        },
+        {
+            "username": "mnb",
+            "password": "537485403bd5d428269ca64663ef0ab4193ce87163f486f25d95841f856dd73ab1d70d3990e72cb5dc0aa5835c94197704acc40f0a5ebed1baec139c72fbfb07",
+            "role": "admin"
+        },
+        {
+            "username": "test user",
+            "password": "0241ae1c36fbdd31bb40fd7f778dd0ae55c3f1181d1fa96173afccd48acaa9fcd03d8f6146fdae492cb741bca1aefc60c23650bf175d0357bee8e7fa818fdd3a",
+            "role": "user"
+        },
+        {
+            "username": "new1",
+            "password": "aae694d1511178c32d4e0f5d6b37d7f33c2816601b2c3456e41bff11618ec99bad6e02ad498f5c1d46a0c55dd297aee64a3ecfaf4ce31fa6a00eb2029bdc66f4",
+            "role": "user"
+        },
+        {
+            "username": "Brandnewuser",
+            "password": "0196083a8056691755ef9e06bd8a5b1a2d2721a25a9d3030f33ed5fc2c0192fcc652f48c42c7d4e35448910d295a7637925972231d89eef82387a4d1df39ff59",
+            "role": "user"
+        },
+        {
+            "username": "test",
+            "password": "bd87ef6b4d089a1c2913136c9f615c5458cc089f4952f5071d0c65a66811d3b8d40e39cf4e388e58ea23aa777d1a9be4b3010c70ad7b8e7d266a252aff32c0c4",
+            "role": "user"
+        },
+        {
+            "username": "qwerty1",
+            "password": "0196083a8056691755ef9e06bd8a5b1a2d2721a25a9d3030f33ed5fc2c0192fcc652f48c42c7d4e35448910d295a7637925972231d89eef82387a4d1df39ff59",
+            "role": "user"
+        },
+        {
+            "username": "asd",
+            "password": "bd87ef6b4d089a1c2913136c9f615c5458cc089f4952f5071d0c65a66811d3b8d40e39cf4e388e58ea23aa777d1a9be4b3010c70ad7b8e7d266a252aff32c0c4",
+            "role": "user"
+        }
+    ]
+=======
+{
+    "user_details": [
+        {
+            "username": "qwerty",
+            "password": "518b73ea3b1482b2ff8b1cf6e6e1a90be24f10835362f9f2e3cb4b8e5b9d14067947d52da7a141e64db51d08633c575832f1ea04cae16b70afa8ae25664a2c80",
+            "role": "user"
+        },
+        {
+            "username": "testuser",
+            "password": "c97ecfa4e0ef1e1ceae3da1cdf20f79ada6f04cb295ea1209c69f928991e2229ea28ee44c373538462fb6fe40231e2861f311ff9716718553886efce5ed5db1b",
+            "role": "user"
+        },
+        {
+            "username": "admin",
+            "password": "1f64b6bf0af41b27cbca5d349e06e005b182d930184fc44c68b5a601714ebaf9a881e278ff2035f458d10d7ef3696601037210b90d5aa02f940fe5c747ccd4af",
+            "role": "admin"
+        },
+        {
+            "username": "tj",
+            "password": "40028e5ba48de9fb9f9287bc23ba6935d54af018758123207985e2c33448549bb1451b6f90e52df7d9fe828f420044504249051e583dc59b53fed5df68008583",
+            "role": "admin"
+        },
+        {
+            "username": "sid",
+            "password": "8fbd949b6d8c9c7d860866c808a2f454fc14b673676c80936c66ed19b636a62a6ae6cccda2b2778a386488d27c462b33d535c4763337703525f33d70e107469e",
+            "role": "user"
+        },
+        {
+            "username": "zxc",
+            "password": "4c01965416549fd4856eb43b5eef4755aefe6fad7622b1b57da16a68c8469fbf1dc182538eaec95c0cf8e7b42706b28ba8aa208416dee81eefca703d15587f41",
+            "role": "admin"
+        },
+        {
+            "username": "ll",
+            "password": "0ee88578d98cc09607ae44ad96d8f53dba56ea3b7c186abb141d1f7a33f501a083d742489663175ca694e9dd482ad553d4c19fe44da7ff524629343c1c17deec",
+            "role": "admin"
+        },
+        {
+            "username": "qw",
+            "password": "c6642efab97bc8283361ef9065a357617b5ec9d96c4e4aa4a86511a525d79197692a54ca260efde7fb173ef2f274177f10dd1f44de68f3321912c9e145057a1e",
+            "role": "admin"
+        },
+        {
+            "username": "mnb",
+            "password": "537485403bd5d428269ca64663ef0ab4193ce87163f486f25d95841f856dd73ab1d70d3990e72cb5dc0aa5835c94197704acc40f0a5ebed1baec139c72fbfb07",
+            "role": "admin"
+        },
+        {
+            "username": "test user",
+            "password": "0241ae1c36fbdd31bb40fd7f778dd0ae55c3f1181d1fa96173afccd48acaa9fcd03d8f6146fdae492cb741bca1aefc60c23650bf175d0357bee8e7fa818fdd3a",
+            "role": "user"
+        },
+        {
+            "username": "new1",
+            "password": "aae694d1511178c32d4e0f5d6b37d7f33c2816601b2c3456e41bff11618ec99bad6e02ad498f5c1d46a0c55dd297aee64a3ecfaf4ce31fa6a00eb2029bdc66f4",
+            "role": "user"
+        },
+        {
+            "username": "Brandnewuser",
+            "password": "0196083a8056691755ef9e06bd8a5b1a2d2721a25a9d3030f33ed5fc2c0192fcc652f48c42c7d4e35448910d295a7637925972231d89eef82387a4d1df39ff59",
+            "role": "user"
+        },
+        {
+            "username": "test",
+            "password": "bd87ef6b4d089a1c2913136c9f615c5458cc089f4952f5071d0c65a66811d3b8d40e39cf4e388e58ea23aa777d1a9be4b3010c70ad7b8e7d266a252aff32c0c4",
+            "role": "user"
+        },
+        {
+            "username": "qwerty1",
+            "password": "0196083a8056691755ef9e06bd8a5b1a2d2721a25a9d3030f33ed5fc2c0192fcc652f48c42c7d4e35448910d295a7637925972231d89eef82387a4d1df39ff59",
+            "role": "user"
+        },
+        {
+            "username": "asd",
+            "password": "bd87ef6b4d089a1c2913136c9f615c5458cc089f4952f5071d0c65a66811d3b8d40e39cf4e388e58ea23aa777d1a9be4b3010c70ad7b8e7d266a252aff32c0c4",
+            "role": "user"
+        }
+    ]
+>>>>>>> origin/main
+}

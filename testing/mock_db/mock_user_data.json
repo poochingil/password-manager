@@ -1,0 +1,166 @@
+<<<<<<< HEAD
+{
+    "qwerty": [
+        {
+            "website": "google.com",
+            "userid": "poochingil",
+            "passwd": "yoyo"
+        },
+        {
+            "website": "ppl.com",
+            "userid": "popo",
+            "passwd": "popo"
+        },
+        {
+            "website": "netflix.com",
+            "userid": "qwerty",
+            "passwd": "mnbv"
+        },
+        {
+            "website": "google.com",
+            "userid": "ww",
+            "passwd": "ww"
+        },
+        {
+            "website": "google.com",
+            "userid": "111",
+            "passwd": "qqq"
+        },
+        {
+            "website": "google.com",
+            "userid": "asd",
+            "passwd": "asd"
+        },
+        {
+            "website": "google.com",
+            "userid": "qqq",
+            "passwd": "qq"
+        },
+        {
+            "website": "ajhasx",
+            "userid": "bhwbed",
+            "passwd": "wbdhb"
+        },
+        {
+            "website": "gjahsj",
+            "userid": "vshvas",
+            "passwd": "jabsj"
+        },
+        {
+            "website": "asd",
+            "userid": "asd",
+            "passwd": "asd"
+        },
+        {
+            "website": "google.com",
+            "userid": "aa",
+            "passwd": "aa"
+        },
+        {
+            "website": "qwer",
+            "userid": "qwer",
+            "passwd": "qwer"
+        },
+        {
+            "website": "google.com",
+            "userid": "aaa",
+            "passwd": "aaa"
+        },
+        {
+            "website": "google.com",
+            "userid": "asa",
+            "passwd": "asad"
+        },
+        {
+            "website": "google.com",
+            "userid": "qq",
+            "passwd": "qq"
+        }
+    ],
+    "new_user": [
+        {}
+    ]
+=======
+{
+    "qwerty": [
+        {
+            "website": "google.com",
+            "userid": "poochingil",
+            "passwd": "yoyo"
+        },
+        {
+            "website": "ppl.com",
+            "userid": "popo",
+            "passwd": "popo"
+        },
+        {
+            "website": "netflix.com",
+            "userid": "qwerty",
+            "passwd": "mnbv"
+        },
+        {
+            "website": "google.com",
+            "userid": "ww",
+            "passwd": "ww"
+        },
+        {
+            "website": "google.com",
+            "userid": "111",
+            "passwd": "qqq"
+        },
+        {
+            "website": "google.com",
+            "userid": "asd",
+            "passwd": "asd"
+        },
+        {
+            "website": "google.com",
+            "userid": "qqq",
+            "passwd": "qq"
+        },
+        {
+            "website": "ajhasx",
+            "userid": "bhwbed",
+            "passwd": "wbdhb"
+        },
+        {
+            "website": "gjahsj",
+            "userid": "vshvas",
+            "passwd": "jabsj"
+        },
+        {
+            "website": "asd",
+            "userid": "asd",
+            "passwd": "asd"
+        },
+        {
+            "website": "google.com",
+            "userid": "aa",
+            "passwd": "aa"
+        },
+        {
+            "website": "qwer",
+            "userid": "qwer",
+            "passwd": "qwer"
+        },
+        {
+            "website": "google.com",
+            "userid": "aaa",
+            "passwd": "aaa"
+        },
+        {
+            "website": "google.com",
+            "userid": "asa",
+            "passwd": "asad"
+        },
+        {
+            "website": "google.com",
+            "userid": "qq",
+            "passwd": "qq"
+        }
+    ],
+    "new_user": [
+        {}
+    ]
+>>>>>>> origin/main
+}

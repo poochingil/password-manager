@@ -1,0 +1,264 @@
+<<<<<<< HEAD
+{
+    "qwerty": [
+        {
+            "website": "google.com",
+            "userid": "poochingil",
+            "passwd": "yoyo"
+        },
+        {
+            "website": "ppl.com",
+            "userid": "popo",
+            "passwd": "popo"
+        },
+        {
+            "website": "netflix.com",
+            "userid": "qwerty",
+            "passwd": "mnbv"
+        },
+        {
+            "website": "pp.com",
+            "userid": "pp",
+            "passwd": "pppp"
+        },
+        {
+            "website": "www.wow.com",
+            "userid": "eo",
+            "passwd": "asdfg"
+        },
+        {
+            "website": "api.in",
+            "userid": "jaiho",
+            "passwd": "jochahevoh"
+        },
+        {
+            "website": "api.in",
+            "userid": "jaiho",
+            "passwd": "jochahevoh"
+        }
+    ],
+    "admin": [
+        {
+            "website": "",
+            "userid": "",
+            "passwd": ""
+        }
+    ],
+    "testuser": [
+        {
+            "website": "",
+            "userid": "",
+            "passwd": ""
+        }
+    ],
+    "tj": [
+        {
+            "website": "",
+            "userid": "",
+            "passwd": ""
+        },
+        {
+            "website": "www",
+            "userid": "qqq",
+            "passwd": "eee"
+        },
+        {
+            "website": "www",
+            "userid": "qqq",
+            "passwd": "eee"
+        }
+    ],
+    "sid": [
+        {
+            "website": "",
+            "userid": "",
+            "passwd": ""
+        },
+        {
+            "website": "api.in",
+            "userid": "jaiho",
+            "passwd": "jochahevoh"
+        }
+    ],
+    "zxc": [
+        {
+            "website": "",
+            "userid": "",
+            "passwd": ""
+        }
+    ],
+    "ll": [
+        {},
+        {
+            "website": "new.com",
+            "userid": "ll",
+            "passwd": "ll''"
+        }
+    ],
+    "qw": [
+        {},
+        {
+            "website": "ww.com",
+            "userid": "qw",
+            "passwd": "qw"
+        }
+    ],
+    "mnb": [
+        {},
+        {
+            "website": "www.fb.com",
+            "userid": "as",
+            "passwd": "sa"
+        }
+    ],
+    "test user": [
+        {}
+    ],
+    "new1": [
+        {}
+    ],
+    "Brandnewuser": [
+        {}
+    ],
+    "test": [
+        {}
+    ],
+    "qwerty1": [],
+    "asd": [
+        {}
+    ]
+}      {}
+    ]
+=======
+{
+    "qwerty": [
+        {
+            "website": "google.com",
+            "userid": "poochingil",
+            "passwd": "yoyo"
+        },
+        {
+            "website": "ppl.com",
+            "userid": "popo",
+            "passwd": "popo"
+        },
+        {
+            "website": "netflix.com",
+            "userid": "qwerty",
+            "passwd": "mnbv"
+        },
+        {
+            "website": "pp.com",
+            "userid": "pp",
+            "passwd": "pppp"
+        },
+        {
+            "website": "www.wow.com",
+            "userid": "eo",
+            "passwd": "asdfg"
+        },
+        {
+            "website": "api.in",
+            "userid": "jaiho",
+            "passwd": "jochahevoh"
+        },
+        {
+            "website": "api.in",
+            "userid": "jaiho",
+            "passwd": "jochahevoh"
+        }
+    ],
+    "admin": [
+        {
+            "website": "",
+            "userid": "",
+            "passwd": ""
+        }
+    ],
+    "testuser": [
+        {
+            "website": "",
+            "userid": "",
+            "passwd": ""
+        }
+    ],
+    "tj": [
+        {
+            "website": "",
+            "userid": "",
+            "passwd": ""
+        },
+        {
+            "website": "www",
+            "userid": "qqq",
+            "passwd": "eee"
+        },
+        {
+            "website": "www",
+            "userid": "qqq",
+            "passwd": "eee"
+        }
+    ],
+    "sid": [
+        {
+            "website": "",
+            "userid": "",
+            "passwd": ""
+        },
+        {
+            "website": "api.in",
+            "userid": "jaiho",
+            "passwd": "jochahevoh"
+        }
+    ],
+    "zxc": [
+        {
+            "website": "",
+            "userid": "",
+            "passwd": ""
+        }
+    ],
+    "ll": [
+        {},
+        {
+            "website": "new.com",
+            "userid": "ll",
+            "passwd": "ll''"
+        }
+    ],
+    "qw": [
+        {},
+        {
+            "website": "ww.com",
+            "userid": "qw",
+            "passwd": "qw"
+        }
+    ],
+    "mnb": [
+        {},
+        {
+            "website": "www.fb.com",
+            "userid": "as",
+            "passwd": "sa"
+        }
+    ],
+    "test user": [
+        {}
+    ],
+    "new1": [
+        {}
+    ],
+    "Brandnewuser": [
+        {}
+    ],
+    "test": [
+        {}
+    ],
+    "qwerty1": [],
+    "asd": [
+        {}
+    ]
+}      {}
+    ]
+>>>>>>> origin/main
+}
